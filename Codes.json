@@ -1,0 +1,17 @@
+{
+	"Tickets": {
+		"TestCode": {"Reward": 5},
+		"Release": {"Reward": 10}
+	},
+
+	"Points": {
+		"TestingCodePts": {"Reward": 5}
+	},
+
+	"FreeToy": {
+		"500Favs": {
+			"31": {"Quantity": 1},
+			"1243": {"Quantity": 2}
+		}
+	}
+}
